@@ -6,7 +6,7 @@
 @import "react-slideshow-image/dist/styles.css";
 
 body{
-  letter-spacing: calc(1px) !important;
+
   font-family: 'Cairo', sans-serif; 
   @apply bg-gradient-to-br from-slate-50 to-gray-100 dark:bg-slate-800 duration-100
 

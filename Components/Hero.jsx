@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import profile from "../public/imgs/fat.png";
+import profile from "../public/imgs/taweel.png";
 import Writer from "./Writer";
 
 const Hero = () => {
